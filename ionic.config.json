@@ -1,5 +1,7 @@
 {
   "name": "nomisma-mobile",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
